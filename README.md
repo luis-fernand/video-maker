@@ -1,2 +1,2 @@
 # video-maker
- Projet
+ Recriação de um projeto para fazer vídeos automatizados 
